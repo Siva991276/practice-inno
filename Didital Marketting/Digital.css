@@ -1,0 +1,249 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  background: rgb(0, 0, 0);
+  width: 100%;
+}
+.fa-handshake {
+  font-size: 70px;
+  margin-top: 10px;
+  color: rgb(4, 63, 238);
+  cursor: pointer;
+  padding: 10px;
+}
+.logoheadding,
+h2 {
+  margin-left: 20px;
+  margin-top: 5px;
+  color: rgb(186, 158, 3);
+}
+.logoheadding,
+span {
+  margin-top: 5px;
+  color: rgb(245, 245, 248);
+}
+.navbar-brand {
+  padding: 10px;
+}
+.nav-link,
+a {
+  color: rgb(255, 254, 254);
+  margin-right: 20px;
+  font-size: 1.1rem;
+}
+.activ1 {
+  color: blue;
+}
+.nav-link:hover {
+  color: red;
+}
+.inputreder {
+  border-radius: 20px;
+  height: 55px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+.iconsection {
+  height: 50px;
+  width: 50px;
+  background: rgb(0, 81, 255);
+  border-radius: 50px;
+  cursor: pointer;
+  border: none;
+  padding: 13px 16px;
+  margin-left: 10px;
+  color: white;
+}
+
+.banner {
+  background-color: rgb(227, 184, 10);
+  height: 75%;
+}
+.discover {
+  width: 50%;
+  height: 9vh;
+  border: none;
+  cursor: pointer;
+  border-radius: 20px;
+  background-color: blue;
+  color: white;
+}
+
+.circle {
+  width: 100%;
+  height: 450px;
+  border-radius: 50%;
+  overflow: hidden;
+  /* margin-left: 90px; */
+}
+
+.circle img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.aboutsection1{
+    height: 70vh;
+    
+}
+.valuess{
+    background-color: rgb(3, 3, 95);
+
+}
+.aboutsectionimg123{
+    width: 300px;
+  height: 40vh;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.aboutsectionimg123 img{
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+
+}
+.aboutsectionimg{
+ width: 50%;
+  height: 40vh;
+  border-radius: 20px;
+  overflow: hidden;
+
+}
+.aboutsectionimg img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.aboutsectionimg1{
+    width: 50%;
+    height: 40vh;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+    margin-top: 50%;
+    top: -50%;
+    left: 30%;
+}
+.aboutsectionimg1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.services h6 {
+  font-size: 1.3rem;
+}
+.services span {
+  color: rgb(2, 92, 247);
+}
+.services h4 {
+  font-size: 2.7rem;
+}
+.services p {
+  font-size: 0.8rem;
+}
+ 
+.cardsection {
+  border: none;
+  box-shadow: 10px 10px 34px 0px rgba(184, 177, 184, 0.21);
+}
+.cardsection .section123{
+    color: rgb(168, 163, 163);
+    font-size: 1.4rem;
+}
+.cardsection .fa-solid{
+    color: rgb(251, 145, 7);
+    font-size: 2.9rem;
+
+}
+.aboutsection1 .smart123{
+    color: rgb(255, 204, 0);
+}
+.aboutsection1 .disdark{
+    color: black;
+    font-weight: 700;
+}
+.aboutsection1 h1{
+    font-weight: bold;
+}
+.aboutsection1 .fa-solid{
+    color: blue;
+}
+.aboutsection1 .parasection{
+    color: black;
+    font-weight: 300;
+}
+.valuess h5,p, h1{
+    color: white;
+}
+.Artical span{
+    color: rgb(255, 196, 0);
+    
+}
+.Artical h1{
+    color: black;
+    font-weight: bold;
+}
+ 
+.Artical img{
+    width: 100%;
+    height: 40vh;
+    border-radius: 20px;
+    background-size: cover;
+    background:no-repeat;   
+}
+.Artical .content123{
+    width: 80%;
+    height: 7vh;
+    background-color: white;
+    border-radius: 10px;
+    -webkit-box-shadow: 10px 10px 45px 0px rgba(0,0,0,1);
+    -moz-box-shadow: 10px 10px 45px 0px rgba(0,0,0,1);
+    box-shadow: 10px 10px 45px 0px rgba(0,0,0,1);
+    position: relative;
+     top: -5%;
+     border: none;
+}
+.iconssection i{
+    font-size: 1.8rem;
+    color: rgb(255, 179, 0);
+    margin-left: 15px;
+}
+.iconsection, p{
+    color: black;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.para123{
+    color: black;
+    font-size: 1.0rem;
+    font-weight: 400;
+}
+.fottersection{
+  background-color: black;
+}
+.btnsetion{
+  width: 50%;
+  height: 8vh;
+  background-color: rgb(255, 208, 0);
+  color: rgb(252, 252, 252);
+  border: none;
+ 
+  font-size: 1.4rem;
+  border-radius: 10px;
+
+  
+
+}
+.linkstextsss p{
+  color: white;
+  font-size: 1.1rem;
+  font-weight: 300;
+  cursor: pointer;
+
+}

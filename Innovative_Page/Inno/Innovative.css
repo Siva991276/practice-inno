@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav-item a {
+  color: rgb(90, 86, 86);
+  margin-right: 14px;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.nav-item a:hover {
+  color: blue;
+}
+.demobtn {
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border-radius: 60px;
+  color: white;
+  background: #04cc28;
+  border: none;
+  outline: none;
+  margin-left: 40px;
+  font-weight: 700;
+}
+.navbar {
+  background: rgb(252, 251, 251);
+}
+.carousel-item {
+  height: 100vh;
+  max-height: 70vh;
+  background: no-repeat scroll center scroll;
+  background-size: cover;
+}
+
+.carousel-caption h5 {
+  color: white;
+  font-size: 1.4rem;
+  font-weight: 800;
+  text-align: left;
+  margin-top: 50px;
+}
+.carousel-caption p {
+  color: white;
+  font-size: 0.7rem;
+  text-align: left;
+}
+.carousel-caption button {
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  background: rgb(193, 193, 2);
+  border-radius: 10px;
+  color: white;
+  float: left;
+  font-weight: 700;
+}
+.solutions .card {
+  border-radius: 20px;
+  cursor: pointer;
+}
+.solutions h3 {
+  font-size: 1.6rem;
+  color: rgb(5, 5, 152);
+}
+.solutions p {
+  font-size: 0.7rem;
+}
+.ProductSolution .imagecover {
+  font-size: 1.2rem;
+  height: 10vh;
+}
+.card-body h4 {
+  font-size: 1.1rem;
+  color: rgb(5, 5, 130);
+}
+.Fottercode {
+  background: black;
+}
+.fa-location-dot {
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+.fa-square-instagram {
+  font-size: 2.4rem;
+  margin-top: 20px;
+}
+.iconsecion11 {
+  width: 60px;
+  height: 60px;
+  border: 2px solid white;
+  border-radius: 50px;
+  border: dotted;
+  margin-left: 42%;
+  margin-bottom: 10px;
+}
